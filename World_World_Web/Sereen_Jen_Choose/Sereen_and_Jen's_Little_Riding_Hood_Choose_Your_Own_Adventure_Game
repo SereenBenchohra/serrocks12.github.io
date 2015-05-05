@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<!--HELLO-->
+	<!--What ever you type in the title tag it will sow up in the tab of the pages below-->
+<head>
+
+	<title>Sereen and Jen's Little Riding Hood Choose Your Own Adventure Game</title>
+	
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link href='http://fonts.googleapis.com/css?family=Gloria+Hallelujah' rel='stylesheet' type='text/css'>
+</head>
+
+<body>
+	<div id="container">
+		<div class="accept">
+			<p>This is DIV1</p>
+		</div>
+	<div class="Wolf">
+		<img src="img/wordWideWeb.png">
+	</div>
+		<div class="reject">
+			<p>This is DIV2</p>
+		</div>
+</div>
+	</body>
